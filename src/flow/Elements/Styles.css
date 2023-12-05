@@ -1,0 +1,33 @@
+.inp{
+    width: 90%;
+    padding:9px 7px;
+    border:solid 0.5px white;
+    background-color:transparent;
+    color:white;
+    border-radius: 5px;
+    font-size: small;
+}
+.inp:focus,
+.inp:hover{
+    outline: transparent;
+}
+
+
+.inp-text{
+    margin: 5px;
+    color: white;
+    border-bottom: 1px dashed #71717a;
+    user-select: none;
+    display: inline-block;
+}
+.inp-container{
+    margin:8px auto 5px;
+    width:90%;
+    display:"flex"
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;    
+}
