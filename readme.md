@@ -3,6 +3,6 @@
 
 ## Botpress clone
 
-#### the purpose is to have an integrated frontend ui to design chatbot and API server that will be used as openai-based chatbot API  
+#### The goal is to create a cohesive frontend user interface for crafting chatbots and an API server intended for use as an openAI-powered chatbot API. 
 
 ![bg](/img/bg.jpg)
